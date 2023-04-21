@@ -1,4 +1,4 @@
-import {ComponentType, FC, useCallback, useEffect, useState} from 'react';
+import {ComponentType, FC, useEffect, useState} from 'react';
 import {ListChildComponentProps, VariableSizeList} from 'react-window';
 import {DUMMY_DATA} from '../constants/varibales';
 import {useNavigate} from 'react-router-dom';

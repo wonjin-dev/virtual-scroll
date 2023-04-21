@@ -3,7 +3,7 @@ import Module from './components/Module';
 
 function App() {
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename={process.env.PUBLIC_URL}>
 			<Routes>
 				<Route path='/' element={<Module />} />
 				<Route
