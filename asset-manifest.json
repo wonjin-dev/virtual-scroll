@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/virtual-scroll/static/js/main.511792cc.js",
+    "index.html": "/virtual-scroll/index.html",
+    "main.511792cc.js.map": "/virtual-scroll/static/js/main.511792cc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.511792cc.js"
+  ]
+}
